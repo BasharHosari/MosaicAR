@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mosaic_bw" size="0.400000 0.272042" />
+    <ImageTarget name="mosaic_pic" size="0.400000 0.381030" />
+  </Tracking>
+</QCARConfig>
